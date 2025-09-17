@@ -82,6 +82,7 @@ Built with **HTML, CSS, and JavaScript**, it features **realistic banking operat
 ## 🌐 Live Demo
 
 🔗 **Netlify Live Demo:**
+[https://fluxbank-live.netlify.app](https://fluxbank-live.netlify.app)
 
 ---
 
